@@ -1,3 +1,4 @@
 # Hello-world
 first repository
-Hai..This is anusha..I like java very much.
+Hai..This is anusha..I like java.
+Hai.. java is platform independent.
